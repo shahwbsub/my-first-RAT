@@ -34,5 +34,6 @@ ascii
   pillow 
   openvc-python
 feel free to copy the repository and do better than me cause like i said this is my first working RAT thats been tested and has
-the ability to keep multiple connections at once, the commands are very picky so youll need the hostname after every command.
+the ability to keep multiple connections at once, the commands are very picky so youll need the hostname after every command
+sorry if some commands dont work since its been made in 2 days.
   and 
